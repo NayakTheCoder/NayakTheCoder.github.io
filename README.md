@@ -1,2 +1,0 @@
-# NayakTheCoder.github.io
-project
